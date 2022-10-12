@@ -1,0 +1,33 @@
+.one{
+    list-style-type: none;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+body{
+    background-color:#c4edf5;
+}
+hr{
+    border-color: #888787;
+    border-width: 8px;
+    border-style:none;
+    border-top-style: dotted ;
+    width: 25%;
+}
+img{
+    width: 208px;
+    length:250px;
+}
+
+h1{
+    color:#2C3639;
+}
+
+h2{
+    color:#2C3639
+}
+
+h3{
+    color:#2C3639;
+}

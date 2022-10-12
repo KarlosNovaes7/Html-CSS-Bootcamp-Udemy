@@ -1,0 +1,52 @@
+body{
+    background-color: #c4edf5;
+    margin: 0; 
+    text-align: center;
+    padding-top: 25px;
+    font-family: 'Merriweather', serif; 
+}
+.header{
+    height: auto;
+    margin: 0px;  
+}
+.nome{
+    display: inline;
+}
+#nome2{
+    text-align: center;
+}
+#p-nome{
+    margin:0;
+}
+#nuvem1{
+    position:absolute;
+    right: 350px;
+}
+#nuvem2{
+    position: absolute;
+    left: 325px;
+}
+#montanha{
+    position: relative;
+    left: 20px;
+}
+h1{
+    margin-top: 0;
+    width: 10%;
+    margin: 0 auto 0 auto;
+    font-family:'Sacramento',cursive;
+}
+h2,h3{
+    font-family: 'Montserrat',sans-serif;
+}
+
+.html{
+    text-decoration: underline;
+}
+.css{
+    text-decoration: underline;
+}
+.text{
+    text-align: center;
+    color: white;
+}
