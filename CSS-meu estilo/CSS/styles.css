@@ -40,13 +40,22 @@ h2,h3{
     font-family: 'Montserrat',sans-serif;
 }
 
-.html{
+.título{
     text-decoration: underline;
+    font-weight: bold;
 }
-.css{
-    text-decoration: underline;
-}
+
+
 .text{
     text-align: center;
     color: white;
+}
+
+#middle-container{
+
+
+}
+#bottom-container{
+
+
 }
