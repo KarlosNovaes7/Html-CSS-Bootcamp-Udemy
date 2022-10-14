@@ -42,6 +42,8 @@ h1{
 }
 h2,h3{
     font-family: 'Montserrat',sans-serif;
+    font-weight: normal;
+    line-height: 2;
 }
 
 .título{
@@ -63,6 +65,9 @@ h2,h3{
     color: white;
 }
 
-.footer-link:{
+.footer-link {
     color: #11999E;
+}
+.btn{
+    color: #11999E ;
 }
