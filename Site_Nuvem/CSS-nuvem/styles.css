@@ -19,7 +19,8 @@ body{
 #p-nome{
     margin:0;
     font-size: 2.5rem;
-    color: #11999E
+    color: #11999E;
+    width: auto;
 }
 #nuvem1{
     position:absolute;
@@ -44,6 +45,9 @@ h2,h3{
     font-family: 'Montserrat',sans-serif;
     font-weight: normal;
     line-height: 2;
+    width: 50%;
+    text-align: center;
+    margin: auto;
 }
 
 .título{
@@ -58,6 +62,7 @@ h2,h3{
 }
 .image{
     filter: drop-shadow(3px 0 0 0 , white);
+    width: 345px;
 }
 
 .text{
@@ -70,4 +75,10 @@ h2,h3{
 }
 .btn{
     color: #11999E ;
+}
+.paragraph{
+    line-height: 2;
+}
+.pizza2{
+    width: 345px;
 }
