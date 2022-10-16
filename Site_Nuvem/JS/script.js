@@ -1,3 +1,3 @@
 function Funçãobotão(){
-    alert("Meu pau na sua mão!");
+    alert("Que bom que você também gosta! Eu também gosto!");
 }
